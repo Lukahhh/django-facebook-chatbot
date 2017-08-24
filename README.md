@@ -3,4 +3,4 @@ A Django reusable app that hooks with a Facebook Messenger app. It scrapes the w
 
 ## Demo video:
 
-[![IMAGE ALT TEXT](https://http://img.youtube.com/vi/2R2WWA2RA1I/0.jpg)](https://www.youtube.com/watch?v=2R2WWA2RA1I)
+[![ALT TEXT](https://http://img.youtube.com/vi/2R2WWA2RA1I/0.jpg)](https://www.youtube.com/watch?v=2R2WWA2RA1I)
